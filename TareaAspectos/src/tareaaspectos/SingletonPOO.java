@@ -8,7 +8,7 @@ package tareaaspectos;
  *
  * @author jkrom
  */
-public class Singleton {
+public class SingletonPOO {
 
     public class Configuracion {
 

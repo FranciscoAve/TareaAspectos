@@ -8,6 +8,6 @@ package tareaaspectos;
  *
  * @author jkrom
  */
-public class Adapter {
+public class SingletonAOP {
     
 }
